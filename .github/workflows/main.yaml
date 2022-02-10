@@ -1,4 +1,4 @@
-name: Backends Chat CI/CD
+name: Backendds Chat CI/CD
 on:
   push:
     branches:
